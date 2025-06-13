@@ -1,6 +1,6 @@
 # Heuristic-Evaluation-of-an-Existing-Website-or-App
-## Name : JAYARAJ B
-## Reg. no: 212224220011
+## Name : SRI GOKUL VENKAT 
+## Reg. no: 212224040324
 ## AIM:
 A.Compare and analyze the UX of 2–3 competing apps/websites.
 #
